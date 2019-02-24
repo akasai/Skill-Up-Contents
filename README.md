@@ -6,3 +6,4 @@
 4. [typescript fullstack](https://medium.com/querypie/typescript%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-fullstack-development-501835592b1d)
 5. [RESTful API설계 및 tip](https://brunch.co.kr/@springboot/59?fbclid=IwAR3zQS6bZqFghv1c7TUWzmA7ZAr52kGaCobWpLmgGCrJDdzqNsk7IBZXMvw)
 6. [github흐름 이해하기](https://blog.outsider.ne.kr/865?fbclid=IwAR1gbkVWl_WUjy00VdoMo1EKg71uV3ZW29q8TRt8E6GTulH9M_jL0wHifvk)
+7. [Domain model vs. DTO](http://toby.epril.com/?p=99)
