@@ -11,3 +11,4 @@
 9. [socket develop](https://brunch.co.kr/@adrenalinee31/2?fbclid=IwAR3rG2e8fd-g1L8CohE8W_sfChnZgmWMx7drVCi6v4kUvEa-N6KMy_BQ_2M)
 10. [확장성있는 도커설계](https://ziwon.dev/post/designing-scalable-portable-docker-container-networks/?fbclid=IwAR3_GjVXuNADrX1lVGIovMqGsOipRwxkHavr7ASxmu1VT0GTeY35h0Ni4ug)
 11. [인프라 설계](https://blog.hax0r.info/2018-11-28/i-will-write-the-code-you-will-be-in-charge-of-the-infrastructure/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR0UciRzI75nbDQoHvVPAcbQlumyOmj0w3wrvrVw-MVTJ9QdNUiZZNbfBuc)
+12. [생각하라 객체지향처럼](http://woowabros.github.io/study/2016/07/07/think_object_oriented.html?fbclid=IwAR1xvejQ6xOP-cjMMROrhq3WK_rL4jVlaDE6mlie6K5h9KsyfXDKXtaq4V4)
