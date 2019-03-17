@@ -12,3 +12,4 @@
 10. [확장성있는 도커설계](https://ziwon.dev/post/designing-scalable-portable-docker-container-networks/?fbclid=IwAR3_GjVXuNADrX1lVGIovMqGsOipRwxkHavr7ASxmu1VT0GTeY35h0Ni4ug)
 11. [인프라 설계](https://blog.hax0r.info/2018-11-28/i-will-write-the-code-you-will-be-in-charge-of-the-infrastructure/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social&fbclid=IwAR0UciRzI75nbDQoHvVPAcbQlumyOmj0w3wrvrVw-MVTJ9QdNUiZZNbfBuc)
 12. [생각하라 객체지향처럼](http://woowabros.github.io/study/2016/07/07/think_object_oriented.html?fbclid=IwAR1xvejQ6xOP-cjMMROrhq3WK_rL4jVlaDE6mlie6K5h9KsyfXDKXtaq4V4)
+13. [dns원리](https://umount.net/web-page-%EC%97%90-%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%8F%99%EC%9E%91-%EA%B3%BC%EC%A0%95-dns/?fbclid=IwAR1DoKVjxhp4c6Hy7uX8ugYJgr8v_bLx5bNb5udDD8Abgj4RXLeVxQmTfKU)
