@@ -19,3 +19,4 @@
 17. [docker로 개발환경 구축하기](https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose?fbclid=IwAR3qmbVCfViDvYEAvtdxx2wac2r4F2JU1Lp8U3yvoQaHttJMPrWInj89hqw)
 18. [TDD](https://sehun-kim.github.io/sehun/tdd-paircoding1/?fbclid=IwAR39rfq2Cc5dGnTOzn-6whdiMHmwXHovZJzCthrXz0jSMW1YoUa2OOsnJ5w)
 19. [server의 차이](https://elky84.github.io/2019/03/17/game_server_develop_difference_web_server_develop/?fbclid=IwAR3tOHKi1-E8nS5IJ6rf-ha_Nk-zpg0qe7zS71qgwSBjWVLfKGYajhRrN8w)
+20. [clean code](http://sungjk.github.io/2017/07/27/clean-code.html?fbclid=IwAR0cdMI9L6QM77ZY6MYXYQBMQUpMXxDROK9WdwBmlDHLSfswUQkj-xvFbdQ)
