@@ -22,6 +22,14 @@
 20. [clean code](http://sungjk.github.io/2017/07/27/clean-code.html?fbclid=IwAR0cdMI9L6QM77ZY6MYXYQBMQUpMXxDROK9WdwBmlDHLSfswUQkj-xvFbdQ)
 21. [알고리즘 사이트 정리](https://justicehui.github.io/study/2019/03/25/AlgorithmSite/?fbclid=IwAR38Pr77tBHRbBAdoDPddnCastIB1GZgaRx2FRXhdtvlOhSmbxwzA52IfRE)
 22. [was와 웹서버의 차이](http://sungbine.github.io/tech/post/2015/02/15/tomcat%EA%B3%BC%20apache%EC%9D%98%20%EC%97%B0%EB%8F%99.html)
+23. [MSA 환경에서의 통신방법](https://docs.microsoft.com/ko-kr/dotnet/standard/microservices-architecture/architect-microservice-container-applications/communication-in-microservice-architecture)
+# kubernetes
 
-# Kubernetes
-1. [kubernetes](http://itnovice1.blogspot.com/2018/12/google-kubernetes.html)
+1. [kubectl DOC](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-strong-getting-started-strong-)
+2. [kubernetes Public DOC](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/)
+3. [kubernetes cluster 구정하기](https://futurecreator.github.io/2019/02/25/kubernetes-cluster-on-google-compute-engine-for-developers/)
+4. [kubernetes yaml 스펙](https://blog.voidmainvoid.net/138)
+5. [kubernetes 요약 1](http://itnovice1.blogspot.com/2018/12/google-kubernetes.html)
+6. [kubernetes 요약 2: 조대협](https://bcho.tistory.com/tag/nodeport)
+7. [kubernetes 요약 3](https://lng1982.tistory.com/270)
+8. [kubernetes 요약 4](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
