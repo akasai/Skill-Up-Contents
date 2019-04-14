@@ -24,6 +24,7 @@
 22. [was와 웹서버의 차이](http://sungbine.github.io/tech/post/2015/02/15/tomcat%EA%B3%BC%20apache%EC%9D%98%20%EC%97%B0%EB%8F%99.html)
 23. [MSA 환경에서의 통신방법](https://docs.microsoft.com/ko-kr/dotnet/standard/microservices-architecture/architect-microservice-container-applications/communication-in-microservice-architecture)
 24. [kubernetes 와 openshift의 차이](https://medium.com/levvel-consulting/the-differences-between-kubernetes-and-openshift-ae778059a90e?fbclid=IwAR2E4-omwPaDo78cRYsDAE9p0veEaNXaU_g2m7Vg33ExQzzKmUo9utIZEUE)ㅐo
+25. [tdd pdf](https://repo.yona.io/doortts/blog/issue/1?fbclid=IwAR1qmYQN6s1pTUhp8Hb6LaMnCdUgsAoDzB0DOD5VlioUC7_GpvDZVyo-P1E)
 # kubernetes
 
 1. [kubectl DOC](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#-strong-getting-started-strong-)
